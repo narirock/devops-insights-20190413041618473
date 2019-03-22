@@ -1,0 +1,17 @@
+@extends('site.theme.template')
+
+@section('conteudo')
+    @include('site.theme.partials.top')
+    @include('site.theme.partials.works')
+    @include('site.theme.partials.about')
+    @include('site.theme.partials.portfolio_modals')
+    @include('site.theme.partials.portfolio')
+    @include('site.theme.partials.elevate')
+    @include('site.theme.partials.languages')
+    @include('site.theme.partials.facts')
+    @include('site.theme.partials.pricing')
+    @include('site.theme.partials.clients')
+    @include('site.theme.partials.contract')
+    @include('site.theme.partials.contact')
+    @include('site.theme.partials.login_modal')
+@endsection
