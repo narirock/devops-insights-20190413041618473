@@ -34,5 +34,6 @@ mix.combine([
    'resources/assets/js/webslidemenu.js',
    'node_modules/isotope-layout/dist/isotope.pkgd.min.js',
    'resources/assets/js/custom.js',
-   'resources/assets/js/main.js'
+   'resources/assets/js/main.js',
+   'resources/assets/js/modernizr.custom.js'
 ],'public/js/app.js');
