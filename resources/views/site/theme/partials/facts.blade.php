@@ -6,6 +6,8 @@
                 <hr>
             </div>
         </div>
+
+
         <div class="contagem">
             <div id="counter">
                 <div class="col-md-3">

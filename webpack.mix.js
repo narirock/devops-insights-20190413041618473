@@ -33,5 +33,6 @@ mix.combine([
    'resources/assets/js/scrolling-nav.js',
    'resources/assets/js/webslidemenu.js',
    'node_modules/isotope-layout/dist/isotope.pkgd.min.js',
-   'resources/assets/js/custom.js'
+   'resources/assets/js/custom.js',
+   'resources/assets/js/main.js'
 ],'public/js/app.js');
