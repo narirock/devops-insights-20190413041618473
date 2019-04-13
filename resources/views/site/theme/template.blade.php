@@ -17,7 +17,7 @@
     <meta property="og:image"         content="https://www.marrs.com.br/images/logo-marrs-1.svg" />
 
     <link rel="stylesheet" href="css/app.css">
-    
+
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> <!-- 33 KB -->
     <!-- Fontawesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -59,12 +59,12 @@
                        //alert (result[0]);
                         if(result[0]==1){
                             window.open('pedido.php?resultado='+result, '_self');
-                        
+
                         }else{
                            alert("OPS! Algo deu errado ->"+txt);
                         }
                      }
-                   });   
+                   });
 
         }
         function enviaMail() {
@@ -188,7 +188,7 @@
         <div class="row">
             <div class="col-md-3 col-sm-12 text-left">
                 <h3><i class="fa fa-briefcase" aria-hidden="true"></i> Empresa</h3>
-                <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor </p>
+                <p class="">Estamos prontos para fazê-los decolar! </p>
                 <h3><i class="fa fa-credit-card" aria-hidden="true"></i> Pagamentos</h3>
                 <img src="images/paypal.png" width="100%" alt="">
 
@@ -245,7 +245,7 @@
 </h5>
     </div>
 </div>
-    
+
 
 
 </body>

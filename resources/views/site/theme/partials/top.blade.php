@@ -15,7 +15,7 @@
             <!--Main Menu HTML Code-->
             <nav class="wsmenu clearfix">
                 <ul class="wsmenu-list">
-                    <li aria-haspopup="true"><a href="#top" class="menuhomeicon  js-scroll-trigger"><i class="fa fa-home"></i><span class="hometext">Home</span></a></li>
+                    <li aria-haspopup="true"><a href="#top" class="menuhomeicon  js-scroll-trigger"><i class="fa fa-rocket"></i><span class="hometext">Home</span></a></li>
                     <li aria-haspopup="true"><a href="#work" class="menuhomeicon  js-scroll-trigger"> Quem Somos</span></a></li>
                     <li aria-haspopup="true"><a href="#portfolio" class="menuhomeicon  js-scroll-trigger"> Portifolio</span></a></li>
                     <li aria-haspopup="true"><a href="#pricing" class="menuhomeicon  js-scroll-trigger"> Preços</span></a></li>
@@ -123,7 +123,7 @@
                     <img class="logo-banner" src="images/logo-marrs-1.svg" width="480" alt="">
                     <h2 class="header-title">Alcance outro nível</h2>
                     <p>Cobrindo diversas áreas de Tecnologia e de desenvolvimento de marca, nós combinamos arte e programação com pensamentos inovadores para oferecer soluções digitais de última geração. </p>
-                    <a href="#" class="btn btn-danger">Vamos começar!</a>
+                    <a href="#work" class="btn btn-danger">Vamos começar!</a>
                 </div>
             </div>
             <div class="hero-rocket">
